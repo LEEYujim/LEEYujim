@@ -1,9 +1,9 @@
 <div align="center">-
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=LEEYujim's%20Story&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text= YUJ's%20Story&fontSize=40&animation=fadeIn)
 
   ### Hi there 👋
-안녕하세요, LEEYujim의 공간에 오신 것을 환영합니다😊
+안녕하세요, YUJ의 공간에 오신 것을 환영합니다😊
 
   #### 😄 연락 : <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/인스타그램-beige??style=for-the-badge&logo=Instagram&logoColor=E4405F"/></a>, <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/노션-beige??style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
 
